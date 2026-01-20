@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  flm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-20T16:11:47.726914048Z"
+    description: A Helm chart for Kubernetes
+    digest: 57b1cf9ac1098357560d70d3c6158190c61e68ac173dd23401fbfef8d82267e3
+    name: flm
+    type: application
+    urls:
+    - flm-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-20T16:11:47.725382681Z"
